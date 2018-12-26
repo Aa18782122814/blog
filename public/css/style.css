@@ -100,6 +100,12 @@ td {
 a img {
   border: none;
 }
+a {
+  cursor: url("/鼠标.ico"), auto !important;
+}
+body {
+  cursor: usr("/小猫.ico"), auto !important;
+}
 input,
 button {
   margin: 0;
@@ -3037,6 +3043,10 @@ pre .javascript .function {
 .reward-content .reward-code {
   width: 200px;
   margin: 0 auto;
+}
+.reward-content .reward-code img {
+  width: 200px;
+  heigxt: 200px;
 }
 .reward-content .reward-select {
   width: 100%;

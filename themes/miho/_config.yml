@@ -42,11 +42,11 @@ menu:
 social:
   home:
     title: 汤姆
-    url: //minhow.com
+    url: //boguowan.我爱你
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: //github.com/Aa18782122814
     target: true
   weibo:
     title: Weibo
@@ -107,7 +107,18 @@ reward:
 changyan_appid: false
 changyan_appkey: false
 # 友言，输入id
-youyan_id: false
+youyan_id: true
+valine:
+    enable: true
+    appId: 4nfeQvQ4x7ATuuQDyJ86c3bG-gzGzoHsz
+    appKey: t9O9MBVsmYDlcuHvpPeI7G6W
+    notify: false
+    verify: false
+    avatar: mp
+    placeholder: 世上无难事，只怕有心人
+    guest_info: nick,mail,link
+    pageSize: 10
+    lang: zh-cn
 # disqus
 disqus: false
 # gitment  https://github.com/imsun/gitment

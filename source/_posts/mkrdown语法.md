@@ -2,6 +2,14 @@
 title: mkrdown语法
 date: 2018-12-25 09:46:48
 tags:
+- hexo
+- gethub
+- 域名
+categories:
+- 教程
+- 语法
+- 字体
+cover_picture: /images/blog.jpg
 ---
 # 标题相关
 ## 二级标题
